@@ -11,7 +11,9 @@ Big-O gösterimini yazınız.
 O(n^2)
 
 Average case: Aradığımız sayının ortada olması Time complexity : o(n^2)
+
 Worst case: Aradığımız sayının sonda olması Time complexity : o(n^2)
+
 Best case: Aradığımız sayının dizinin en başında olması. Time complexity : o(1)
 
 Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
